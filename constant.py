@@ -1,2 +1,2 @@
 Pi = "Hello "
-d = "World"
+d = 3.14
